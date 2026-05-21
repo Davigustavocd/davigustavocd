@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**Davigustavocd/davigustavocd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Olá, eu sou Davi Gustavo Barbosa!</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+💻 Estudante de TI | 🌐 Desenvolvimento Web | 🚀 Em busca de evolução constante
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre Mim
+
+Sou apaixonado por tecnologia e estou iniciando minha jornada na área de desenvolvimento.  
+Atualmente estudando programação, desenvolvimento web e ferramentas modernas para construir projetos e evoluir cada vez mais na área de TI.
+
+---
+
+## 🛠 Tecnologias & Ferramentas
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 🌐 Links
+
+🔗 LinkedIn: https://www.linkedin.com/in/davi-barbosa-599918214/
+
+---
+
+## 📫 Contato
+
+📧 Email: davigustavo644@gmail.com
+
+🚀 Sempre buscando aprender, criar e evoluir!
