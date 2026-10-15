@@ -17,9 +17,7 @@ Atualmente estudando programação, desenvolvimento web e ferramentas modernas p
 
 ## 🛠 Tecnologias & Ferramentas
 
-- HTML
-- CSS
-- JavaScript
+- Python
 - Git & GitHub
 
 ---
